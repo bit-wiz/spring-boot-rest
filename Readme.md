@@ -1,5 +1,3 @@
-# Add the env vars (as per .env.example file)
-
 
 ## Start Server ( Run Locally )
 ```bash
